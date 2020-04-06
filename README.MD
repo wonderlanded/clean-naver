@@ -8,5 +8,5 @@
 
 ## Installation
 
-- Download crx or zip File in the [Release](release).
+- Download File from [Release]([release](https://github.com/wonderlandpark/clean-naver/releases)).
 - Drag and Drop the File it the [Chrome Extension](chrome://extension)
